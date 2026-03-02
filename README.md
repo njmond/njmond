@@ -60,7 +60,7 @@ $ ls -la ./projects/
 
 ### `> contact --info`
 
-[![Telegram](https://img.shields.io/badge/Telegram-@njmond-1a1a2e?style=for-the-badge&logo=telegram&logoColor=29B6F6)](https://t.me/njmond)
+[![Telegram](https://img.shields.io/badge/Telegram-@njmond-1a1a2e?style=for-the-badge&logo=telegram&logoColor=29B6F6)](https://t.me/njmondeth)
 [![ENS](https://img.shields.io/badge/ENS-njmond.eth-1a1a2e?style=for-the-badge&logo=ethereum&logoColor=9B59B6)](https://app.ens.domains/njmond.eth)
 
 ---
